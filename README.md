@@ -49,7 +49,7 @@
 - 🖥️ Linux/Theme fun: [Pop-os-clone](https://github.com/Adithya1217/Pop-os-clone)
 - 🧩 Experiments & snippets: [6bytes](https://github.com/Adithya1217/6bytes)
 
-### 📊 Clean Visuals (no cringe totals)
+### 📊 Clean Visuals 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya1217&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
