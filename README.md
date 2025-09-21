@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Display-only crop: adjust the height value to change how much of the bottom is hidden -->
-  <div style="width:100%; max-width:1000px; height:190px; overflow:hidden; margin:0 auto;">
+  <div style="width:100%; max-width:1000px; height:170px; overflow:hidden; margin:0 auto;">
     <img src="unnamed.png" alt="Banner" style="width:100%; display:block;" />
   </div>
 </p>
